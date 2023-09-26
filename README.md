@@ -10,4 +10,5 @@ Meu nome é Vitor
 
 Vitor.lima.amaral@escola.pr.gov.br 
 
-![] https://tenor.com/pt-BR/view/homer-simpson-homer-bushes-fast-simpsons-gif-24748881
+
+![] https://media.tenor.com/7JITDaTPtUAAAAC/naruto.gif
