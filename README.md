@@ -11,4 +11,4 @@ Meu nome é Vitor
 Vitor.lima.amaral@escola.pr.gov.br 
 
 
-![] https://media.tenor.com/7JITDaTPtUAAAAC/naruto.gif
+![] <div class="tenor-gif-embed" data-postid="9609834838207488023" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/homer-simpsons-thesimpsons-homersimpson-simpson-gif-9609834838207488023">Homer Simpsons GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
