@@ -8,6 +8,6 @@ Meu nome é Vitor
 
 ### Você pode entrar em contato comigo 📫
 
-Vitor.lima.amaral@escola.pr.gov.br
+Vitor.lima.amaral@escola.pr.gov.br 
 
-![Homer nos arbustos](https://giphy.com/gifs/homer-simpson-the-simpsons-bush-4pMX5rJ4PYAEM)
+![] https://tenor.com/pt-BR/view/homer-simpson-homer-bushes-fast-simpsons-gif-24748881
